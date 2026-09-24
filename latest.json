@@ -1,11 +1,11 @@
 {
-  "version": "0.18.5",
-  "notes": "Revelo v0.18.5 release.",
-  "pub_date": "2026-09-24T20:43:10Z",
+  "version": "0.18.6",
+  "notes": "Simplified mail navigation, compact version update control, smaller Compose button, and a dedicated Calendar destination beside Settings.",
+  "pub_date": "2026-09-24T21:03:01.426670Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN1VPb1kxMGtTcWdLYW9pc3JYSi9lWDNUTWM2UWxUZjFCRDdCMDNkTjVTYWpWNDhRSkRpMW1SY3QrbTFIMExiK044WXIzc1cxUmVTdURYT3ZwR3UwNXdGeUVDK1dBdWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjc5NjQ3CWZpbGU6UmV2ZWxvLmFwcC50YXIuZ3oKZ1g2dGd6SDFkRnhXaTVoSmVJYW5NSHh1cG0yYUE5QTZUN2toRWI4dWF4aHp1UlB1RVBQWEo2TDVXZjY1S2IzVkozUTR0azFtQmx1eU9FRUJrQmxOQkE9PQo=",
-      "url": "https://raw.githubusercontent.com/martinezooo/revelo-updates/main/releases/v0.18.5/Revelo.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN1VPb1kxMGtTcXNJbE1GcG5BdHVONTZaYzZKcVhXWkRKbVl3ZkhEV2d6bjRRR05aQ1g2NzhnYWlzLzNTcDBNeHRPa1FGd2QwNWlIV3ViSkYvVnZlVDlseVFOa2tRcEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjgzNzIzCWZpbGU6UmV2ZWxvLmFwcC50YXIuZ3oKSlZJL2JWcWdBTjk2dUR3WmNJTmNBcnFJN3FBZWlGVEUyWWNSdVYwVm1OL082VTZZY3RFRnlHdUNkejlIaEZrZlBGU1BtNm5GeVN0WVdBSEI2cHhVREE9PQo=",
+      "url": "https://raw.githubusercontent.com/martinezooo/revelo-updates/main/releases/v0.18.6/Revelo.app.tar.gz"
     }
   }
 }
