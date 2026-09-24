@@ -1,0 +1,11 @@
+{
+  "version": "0.18.3",
+  "notes": "Startup fixes plus reliable raw updater feed.",
+  "pub_date": "2026-09-24T12:36:53Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN1VPb1kxMGtTcXVKV283TitzLytCeklVZGFGNWd0d042NkJtL24wUzR2cm9PcHZ4NHFZNGVIZ3hyMVdCc1VudHYrWkliZE5mVjFUZGZNUEhuKzBYVmRhVXdGMlFMZndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjUzMzQ5CWZpbGU6UmV2ZWxvLmFwcC50YXIuZ3oKV0JLYWwwQnd5d2VzTTNBdnoyM1FRUExNc2ZDRUNoRE9ZNDZQWFBMcmpMRW4xbXlYVlpUcmtEeS9Gd2hqVlgveTNEZHRZdTB0elMrZ2lBN3VhOTd5RHc9PQo=",
+      "url": "https://raw.githubusercontent.com/martinezooo/revelo-updates/main/releases/v0.18.3/Revelo.app.tar.gz"
+    }
+  }
+}
