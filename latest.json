@@ -1,11 +1,11 @@
 {
-  "version": "0.18.4",
-  "notes": "Butterfly branding, visible version and explicit updater controls, silent startup update checks, and simplified mail navigation.",
-  "pub_date": "2026-09-24T15:18:34Z",
+  "version": "0.18.5",
+  "notes": "Revelo v0.18.5 release.",
+  "pub_date": "2026-09-24T20:43:10Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN1VPb1kxMGtTcWdhbi9Ib0h4UzljbmtKdEtVSkRZQWp5TWQ0TWZtMkkxeVZqbUxYc1ZvNUl3Q1lkYnBwV3pUU0Y3RnM5N21PS2dBVjV0VHA2SWoxeHRTU1VYNjhPUlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjYzMDgyCWZpbGU6UmV2ZWxvLmFwcC50YXIuZ3oKcXZveEYyZDdsb0NnUzZ2TndrYTZLWk1TTS96Z3BtZWJjS0RtRm9qNU5XTnFhRzRpMzZJUUE0dUhJOTRPVnFuTTZIcmEwQkJBRU5aSFpPYmpQY0l5RGc9PQo=",
-      "url": "https://raw.githubusercontent.com/martinezooo/revelo-updates/main/releases/v0.18.4/Revelo.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRN1VPb1kxMGtTcWdLYW9pc3JYSi9lWDNUTWM2UWxUZjFCRDdCMDNkTjVTYWpWNDhRSkRpMW1SY3QrbTFIMExiK044WXIzc1cxUmVTdURYT3ZwR3UwNXdGeUVDK1dBdWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjc5NjQ3CWZpbGU6UmV2ZWxvLmFwcC50YXIuZ3oKZ1g2dGd6SDFkRnhXaTVoSmVJYW5NSHh1cG0yYUE5QTZUN2toRWI4dWF4aHp1UlB1RVBQWEo2TDVXZjY1S2IzVkozUTR0azFtQmx1eU9FRUJrQmxOQkE9PQo=",
+      "url": "https://raw.githubusercontent.com/martinezooo/revelo-updates/main/releases/v0.18.5/Revelo.app.tar.gz"
     }
   }
 }
